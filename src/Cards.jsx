@@ -4,10 +4,10 @@ import { cardData } from "./data";
 const Cards = () => {
   return (
     <div className="w-full bg-[#252525]">
-      <div className="max-w-6xl mx-auto grid grid-cols-3 py-10">
+      <div className="max-w-screen-2xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-content-center justify-center px-4 md:px-10 gap-6 xl:gap-10  py-10">
         {cardData.map((item) => (
-          <div key={item.id}>
-            <div className="max-w-xs p-6 rounded-md shadow-md bg-gray-900 dark:text-gray-50">
+          <div key={item.id} className="grid place-content-center">
+            <div className=" p-6 rounded-md shadow-md bg-gray-900 dark:text-gray-50 ">
               <img
                 src={item.image}
                 alt=""

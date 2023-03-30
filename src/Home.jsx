@@ -5,7 +5,9 @@ const Home = () => {
   return (
     <div className="w-full relative">
       <img className="w-full h-[400px]" src={image} alt="" />
-      <p className="absolute top-24 left-[45%] text-4xl font-bold">Home</p>
+      <p className="absolute top-24 left-[35%] md:left-[45%] text-4xl font-bold">
+        Home
+      </p>
     </div>
   );
 };
