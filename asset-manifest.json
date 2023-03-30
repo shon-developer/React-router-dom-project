@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-router-dom-project/static/css/main.d9aab2d5.css",
+    "main.js": "/React-router-dom-project/static/js/main.3dfff1b5.js",
+    "static/media/aboutimg.jpg": "/React-router-dom-project/static/media/aboutimg.9a59a421c9461ed09a71.jpg",
+    "static/media/homeimg.jpg": "/React-router-dom-project/static/media/homeimg.cd88b09748cc7bd893d4.jpg",
+    "static/media/contactimg.jpg": "/React-router-dom-project/static/media/contactimg.9f52c5575784fe8827a2.jpg",
+    "index.html": "/React-router-dom-project/index.html",
+    "main.d9aab2d5.css.map": "/React-router-dom-project/static/css/main.d9aab2d5.css.map",
+    "main.3dfff1b5.js.map": "/React-router-dom-project/static/js/main.3dfff1b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9aab2d5.css",
+    "static/js/main.3dfff1b5.js"
+  ]
+}
